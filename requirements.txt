@@ -1,0 +1,9 @@
+Django~=2.2.10
+django-widget-tweaks~=1.4.8
+django-allauth~=0.41.0
+django-multiselectfield
+django-crispy-forms>=1.9.0  
+Pillow 
+
+django-mdeditor
+Markdown
